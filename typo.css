@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+h3{
+    background-color: orange;
+    color:black;
+}
+img{
+    border-radius: 100%;
+    margin: 20px;
+    right: 0%;
+}
+#typo{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color :white;
+    background-color: rgb(10, 10, 10);    
+    width: 80%;
+    margin: 0px auto;
+    border-left: 40px solid orange;
+    border-bottom: 20px solid orange;
+}
